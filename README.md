@@ -6,7 +6,7 @@
 - 💸 - Constantemente temos vagas para:
 - - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
 - - **Backend**: NestJs + PrismaIO + PostgreSQL;
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
+- - Se alguma fez sentido pra você, [entre em contato conosco](https://wa.me/5585982167423).
 
 ##
 
@@ -32,11 +32,11 @@
  
 <div> 
    
-  <a href="https://instagram.com/paulopelaez" target="_blank">
+  <a href="https://instagram.com/ofcwalison" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
-  <a href="mailto:pelaez@querywork.com">
+  <a href="mailto:walisontechrecuiter@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
