@@ -1,8 +1,8 @@
 # Fala Dev!! Tudo beleza ?
 
 - 👨🏽‍💻 -  Eu me chamo [Walison Morais](https://www.linkedin.com/in/walisonmorais/);
-- 💜 - Atualmente sou Tech Recruiter [WalisonTechRecruiter](https://www.linkedin.com/company/querywork);
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
+- 💻 - Atualmente sou Tech Recruiter [WalisonTechRecruiter](https://www.linkedin.com/company/querywork);
+- 🚀 - Sou Tech Recruiter em busca dos melhores profissionais para melhores empresas do mundo da tecnologia;
 - 💸 - Constantemente temos vagas para:
 - - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
 - - **Backend**: NestJs + PrismaIO + PostgreSQL;
